@@ -1,7 +1,7 @@
 {
-  "name": "수학 탐험대",
-  "short_name": "수학 탐험대",
-  "description": "초등학교 1학년을 위한 덧셈·뺄셈 퀴즈",
+  "name": "상욱이의 수학 탐험대",
+  "short_name": "상욱이 탐험대",
+  "description": "상욱이를 위한 초등학교 1학년 덧셈·뺄셈 퀴즈",
   "lang": "ko-KR",
   "start_url": "./index.html",
   "scope": "./",
@@ -11,4 +11,5 @@
   "theme_color": "#fff8e9",
   "icons": [{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
 }
+
 
