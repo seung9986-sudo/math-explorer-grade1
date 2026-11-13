@@ -1,4 +1,4 @@
-const CACHE = 'math-explorer-v8';
+const CACHE = 'math-explorer-v9';
 const FILES = ['./', './index.html', './manifest.webmanifest', './icon.svg'];
 self.addEventListener('install', event => {
   event.waitUntil(caches.open(CACHE).then(cache => cache.addAll(FILES)));
